@@ -1,66 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Welcome to My GitHub!</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            color: #333;
-            background: linear-gradient(to right, #00c6ff, #0072ff);
-            margin: 0;
-            padding: 0;
-            text-align: center;
-        }
-        .container {
-            max-width: 800px;
-            margin: 50px auto;
-            padding: 20px;
-            background: rgba(255, 255, 255, 0.8);
-            border-radius: 10px;
-        }
-        h1 {
-            color: #0072ff;
-        }
-        h2 {
-            color: #00c6ff;
-        }
-        p {
-            line-height: 1.6;
-        }
-        .projects, .contact {
-            margin-top: 30px;
-        }
-        a {
-            color: #0072ff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Welcome to My GitHub!</h1>
-        <p>Hi there! 👋 I'm Zayan, a 13-year-old beginner programmer and maker. This is my GitHub page where I share my projects and experiments in Python and Arduino. I’m always learning and trying new things, so feel free to check out my work!</p>
-        
-        <h2>About Me</h2>
-        <p><strong>Age:</strong> 13 years old</p>
-        <p><strong>Favorite TV Show:</strong> Brooklyn Nine-Nine (I love Jake and) </p>
-        <p><strong>Programming Skills:</strong> Beginner in Python and Arduino</p>
-        <p><strong>Support System:</strong> My amazing mom supports me no matter what I do. 💪</p>
-        
-        <div class="projects">
-            <h2>Projects</h2>
-            <h3>Python</h3>
-            <p><strong></strong> My most recent project is a measure convertor</p>
-            
-            <h3>Arduino</h3>
-            <p><strong></strong> Sanitizer dispenser, EVM and Bluetooth controlled car! </p>
-        </div>
-        <p>Thanks for visiting my GitHub page! I hope you find my projects interesting. 😊</p>
-    </div>
-</body>
-</html>
+Zayan's Python Projects
+Welcome to my personal log of Python projects! 🎉 I’m Zayan, a 13-year-old coding enthusiast, and here you'll find two of my basic and small projects: a Measurement Converter and a Guess the Number game.
+
+Projects
+Measurement Converter
+A handy tool to convert units of measurement (e.g., inches to centimeters). It’s simple and functional!
+
+Guess the Number Game
+A fun game where you guess a randomly chosen number within a range. Test your luck and see if you can guess the right number!
+
+Getting Started
+Clone this repository from GitHub.
+Open the project in VS Code.
+Run the Python files directly from VS Code to see them in action.
+Features
+Measurement Converter: Converts units easily.
+Guess the Number Game: A straightforward guessing game.
+Known Issues
+No known issues.
+Contributing
+Currently, contributions are not sought. This is a personal log for now.
+
+Acknowledgments
+A big thank you to my mom ❤️ for taking care of me after my dad passed away. Your support means everything!
+
+License
+This project is for personal use only.
+
+Running the Projects
+Just run the Python files in VS Code. It’s that easy!
+
+Troubleshooting
+If you encounter any issues, make sure your setup is correct or leave a comment.
+
+Reporting Issues or Requests
+Feel free to leave a comment if you find any issues or have suggestions for new features.
+
+Related Projects
+None at the moment.
+
+Fun Story
+When I was coding the Measurement Converter, I fell asleep and woke up at 3 AM just to save my work!
+
